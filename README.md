@@ -1,3 +1,4 @@
+ Not 
  
  scr  dosyasında  vize ödevi bulunur
  
